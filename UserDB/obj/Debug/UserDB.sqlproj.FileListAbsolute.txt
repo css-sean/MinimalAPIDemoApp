@@ -1,0 +1,6 @@
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\sean\source\repos\MinimalAPIDemoApp\UserDB\obj\Debug\UserDB.pdb
